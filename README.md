@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=pranav107)
+![GitHub Followers](https://img.shields.io/github/followers/pranav107?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/pranav107?affiliations=OWNER&style=social)
+
 # Hi 👋, I'm Pranav Agneesh
 
 ### Artificial Intelligence & Machine Learning Student
@@ -90,6 +94,9 @@ Full-stack application for managing tenants, office spaces, billing, and busines
 * Develop scalable Full-Stack solutions
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav107&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav107&layout=compact) 
 
 ## 📫 Connect With Me
 
