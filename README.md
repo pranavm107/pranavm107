@@ -96,7 +96,7 @@ Full-stack application for managing tenants, office spaces, billing, and busines
 
 * GitHub: https://github.com/pranav107
 * LinkedIn: https://www.linkedin.com/in/pranav-agneesh
-* Email: [pranav.bam24@rathinam.in](mailto:pranav.bam24@rathinam.in)
+* Email: [pranav.bam24@rathinam.in](mailto:pranavagneeshm@gmail.com)
 
 ---
 
