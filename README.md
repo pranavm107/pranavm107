@@ -76,9 +76,6 @@ Deep Learning project built using TensorFlow and Keras for image classification 
 
 Modern responsive website developed using React, TypeScript, and Tailwind CSS.
 
-### Tenant Management System
-
-Full-stack application for managing tenants, office spaces, billing, and business operations.
 
 ---
 
