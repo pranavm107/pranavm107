@@ -1,4 +1,10 @@
-# Hi 👋, I'm Pranav Agneesh
+<h1 align="center">Hi 👋, I'm Pranav Agneesh</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Software+Developer;Building+Intelligent+Applications;Open+Source+Contributor" />
+  </a>
+</p>
 
 ## AI Engineer | Machine Learning Engineer | Software Developer
 
