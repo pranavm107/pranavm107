@@ -8,9 +8,6 @@
 
 ## AI Engineer | Machine Learning Engineer | Software Developer
 
-<p align="center">
-<img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg4aTBjYm5vNGs4dXc1d2kwcDJudjV4cWJlZXM0bTRkM3l0N2J2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
-</p>
 I build intelligent applications powered by Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development. My work focuses on designing scalable software, developing production-ready AI solutions, and transforming real-world problems into practical products through modern technologies.
 
 ---
@@ -114,9 +111,11 @@ Modern responsive business website built using React, TypeScript, and Tailwind C
 
 ## Connect
 
-- GitHub: https://github.com/pranav107
-- LinkedIn: https://www.linkedin.com/in/pranav-agneesh
-- Email: pranavagneeshm@gmail.com
+<p align="center">
+<a href="https://github.com/pranav107"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/pranav-agneesh"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:pranavagneeshm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 ---
 
