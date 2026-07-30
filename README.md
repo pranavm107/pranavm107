@@ -27,6 +27,9 @@ I build intelligent applications powered by Artificial Intelligence, Machine Lea
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,react,ts,js,tensorflow,opencv,postgres,git,github,vscode,spring,tailwind,html,css&perline=8" />
 </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,nodejs,postgres,docker,git,github,linux,java,ts,js&perline=7"/>
+</p>
 ### Programming
 
 - Python
@@ -128,9 +131,5 @@ Modern responsive business website built using React, TypeScript, and Tailwind C
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranav107&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav107&theme=tokyonight&hide_border=true"/>
-
+⭐ If you like my work, consider starring my repositories.
 </p>
