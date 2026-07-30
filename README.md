@@ -1,100 +1,114 @@
 # Hi 👋, I'm Pranav Agneesh
 
-### Artificial Intelligence & Machine Learning Student
+## AI Engineer | Machine Learning Engineer | Software Developer
 
-I am a final-year B.Sc. Artificial Intelligence & Machine Learning student passionate about building intelligent systems using Machine Learning, Deep Learning, Computer Vision, and Full-Stack Development. I enjoy solving real-world problems through data-driven solutions and continuously expanding my knowledge in AI technologies.
-
----
-
-## 🚀 About Me
-
-* 🎓 Final-Year B.Sc. Artificial Intelligence & Machine Learning Student
-* 💻 Interested in Machine Learning, Deep Learning, Computer Vision, and Generative AI
-* 🌱 Currently learning Large Language Models (LLMs), Generative AI, and Advanced Machine Learning
-* 🔭 Building AI-powered applications and full-stack projects
-* 👨‍💻 Open to AI/ML, Data Science, and Software Engineering Internships
-* 📍 Coimbatore, Tamil Nadu, India
+I build intelligent applications powered by Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development. My work focuses on designing scalable software, developing production-ready AI solutions, and transforming real-world problems into practical products through modern technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Programming Languages
-
-* Python
-* Java
-* SQL
-* JavaScript
-* TypeScript
-
-### Machine Learning & AI
-
-* Scikit-Learn
-* TensorFlow
-* Keras
-* OpenCV
-* Pandas
-* NumPy
-* Matplotlib
-
-### Web Development
-
-* React.js
-* TypeScript
-* Spring Boot
-* REST APIs
-* HTML
-* CSS
-* Tailwind CSS
-
-### Databases & Tools
-
-* PostgreSQL
-* DBeaver
-* Git
-* GitHub
-* VS Code
-* IntelliJ IDEA
+- Building AI-powered applications and intelligent software solutions
+- Passionate about Machine Learning, Deep Learning, Computer Vision, and Generative AI
+- Exploring Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and MLOps
+- Developing scalable backend systems, REST APIs, and modern web applications
+- Interested in solving real-world business problems using AI and data
+- Open to AI Engineering, Machine Learning Engineering, Software Engineering, and Full-Stack Development opportunities
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### Sonar Rock vs Mine Prediction
+### Programming
 
-Machine Learning model that classifies sonar signals as rocks or mines using supervised learning techniques.
+- Python
+- Java
+- SQL
+- JavaScript
+- TypeScript
 
-### Credit Scoring Model
+### Artificial Intelligence & Machine Learning
 
-Predictive analytics project that evaluates creditworthiness using machine learning algorithms and feature engineering.
+- Scikit-Learn
+- TensorFlow
+- Keras
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
 
-### CNN Image Classifier
+### Web & Backend Development
 
-Deep Learning project built using TensorFlow and Keras for image classification on the CIFAR-10 dataset.
+- React
+- Spring Boot
+- FastAPI
+- REST APIs
+- HTML
+- CSS
+- Tailwind CSS
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### Developer Tools
+
+- Git
+- GitHub
+- Postman
+- DBeaver
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## Featured Projects
+
+### AI Mock Interview Platform
+AI-powered interview preparation platform with resume analysis, interview simulation, and performance evaluation.
+
+### Credit Scoring Prediction
+Machine Learning system for predicting customer creditworthiness using feature engineering and classification models.
+
+### Sonar Rock vs Mine Classification
+Supervised Machine Learning model for classifying sonar signals using predictive analytics.
+
+### CNN Image Classification
+Deep Learning project using TensorFlow and Keras for multi-class image classification on the CIFAR-10 dataset.
 
 ### Construction Portfolio Website
-
-Modern responsive website developed using React, TypeScript, and Tailwind CSS.
-
+Modern responsive business website built using React, TypeScript, and Tailwind CSS.
 
 ---
 
-## 📈 GitHub Goals
+## Current Focus
 
-* Build impactful AI and Machine Learning projects
-* Contribute to Open Source
-* Master Generative AI and LLM Applications
-* Develop scalable Full-Stack solutions
-
----
-
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/pranav107
-* LinkedIn: https://www.linkedin.com/in/pranav-agneesh
-* Email: [pranav.bam24@rathinam.in](mailto:pranavagneeshm@gmail.com)
+- Generative AI
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Full-Stack AI Applications
 
 ---
 
-### "Transforming ideas into intelligent solutions through AI and technology."
+## GitHub Goals
+
+- Build production-ready AI applications
+- Contribute to Open Source
+- Explore scalable AI systems
+- Create impactful developer tools
+- Continuously learn emerging AI technologies
+
+---
+
+## Connect
+
+- GitHub: https://github.com/pranav107
+- LinkedIn: https://www.linkedin.com/in/pranav-agneesh
+- Email: pranavagneeshm@gmail.com
+
+---
+
+> "Building intelligent software that solves real-world problems through AI and modern engineering."
