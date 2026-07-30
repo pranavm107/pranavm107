@@ -24,7 +24,9 @@ I build intelligent applications powered by Artificial Intelligence, Machine Lea
 ---
 
 ## Tech Stack
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,react,ts,js,tensorflow,opencv,postgres,git,github,vscode,spring,tailwind,html,css&perline=8" />
+</p>
 ### Programming
 
 - Python
