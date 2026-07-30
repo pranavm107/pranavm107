@@ -1,135 +1,123 @@
 <h1 align="center">Hi 👋, I'm Pranav Agneesh</h1>
 
+<h3 align="center">
+AI Engineer • Machine Learning Engineer • Software Developer
+</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Software+Developer;Building+Intelligent+Applications;Open+Source+Contributor" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI;Full-Stack+Developer;Always+Learning+Something+New" />
 </p>
 
-## AI Engineer | Machine Learning Engineer | Software Developer
-
-I build intelligent applications powered by Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development. My work focuses on designing scalable software, developing production-ready AI solutions, and transforming real-world problems into practical products through modern technologies.
-
----
-
-## About Me
-
-- Building AI-powered applications and intelligent software solutions
-- Passionate about Machine Learning, Deep Learning, Computer Vision, and Generative AI
-- Exploring Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and MLOps
-- Developing scalable backend systems, REST APIs, and modern web applications
-- Interested in solving real-world business problems using AI and data
-- Open to AI Engineering, Machine Learning Engineering, Software Engineering, and Full-Stack Development opportunities
-
----
-
-## Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,react,ts,js,tensorflow,opencv,postgres,git,github,vscode,spring,tailwind,html,css&perline=8" />
+<a href="https://github.com/pranav107">
+<img src="https://komarev.com/ghpvc/?username=pranav107&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/pranav107?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/github/stars/pranav107?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge">
+
 </p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,react,nodejs,postgres,docker,git,github,linux,java,ts,js&perline=7"/>
-</p>
-### Programming
-
-- Python
-- Java
-- SQL
-- JavaScript
-- TypeScript
-
-### Artificial Intelligence & Machine Learning
-
-- Scikit-Learn
-- TensorFlow
-- Keras
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
-
-### Web & Backend Development
-
-- React
-- Spring Boot
-- FastAPI
-- REST APIs
-- HTML
-- CSS
-- Tailwind CSS
-
-### Databases
-
-- PostgreSQL
-- MySQL
-
-### Developer Tools
-
-- Git
-- GitHub
-- Postman
-- DBeaver
-- VS Code
-- IntelliJ IDEA
 
 ---
 
-## Featured Projects
+# 💫 About Me
 
-### AI Mock Interview Platform
-AI-powered interview preparation platform with resume analysis, interview simulation, and performance evaluation.
+💡 I build AI-powered software that combines Machine Learning, Deep Learning, Computer Vision, and Full-Stack Development to solve real-world problems.
 
-### Credit Scoring Prediction
-Machine Learning system for predicting customer creditworthiness using feature engineering and classification models.
+Currently exploring
 
-### Sonar Rock vs Mine Classification
-Supervised Machine Learning model for classifying sonar signals using predictive analytics.
-
-### CNN Image Classification
-Deep Learning project using TensorFlow and Keras for multi-class image classification on the CIFAR-10 dataset.
-
-### Construction Portfolio Website
-Modern responsive business website built using React, TypeScript, and Tailwind CSS.
-
----
-
-## Current Focus
-
-- Generative AI
 - Large Language Models (LLMs)
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
 - MLOps
-- Full-Stack AI Applications
+- Production AI Systems
+- Scalable Backend Engineering
 
 ---
 
-## GitHub Goals
-
-- Build production-ready AI applications
-- Contribute to Open Source
-- Explore scalable AI systems
-- Create impactful developer tools
-- Continuously learn emerging AI technologies
-
----
-
-## Connect
+# ⚡ Tech Stack
 
 <p align="center">
-<a href="https://github.com/pranav107"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/pranav-agneesh"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:pranavagneeshm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,fastapi,spring,postgres,mysql,git,github,docker,linux,vscode,tensorflow,pytorch,opencv&perline=9"/>
+
 </p>
 
 ---
 
-> "Building intelligent software that solves real-world problems through AI and modern engineering."
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Mock Interview | AI-powered interview simulator with resume analysis |
+| 📊 Credit Scoring Prediction | Machine Learning classification model |
+| 🎯 Sonar Rock vs Mine | Supervised Learning prediction system |
+| 🖼 CNN Image Classification | TensorFlow CNN trained on CIFAR-10 |
+| 🌐 Construction Portfolio | Modern React + Tailwind website |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranav107&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav107&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories.
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav107&theme=react-dark&hide_border=true"/>
+
 </p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranav107&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/pranav107">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/pranav-agneesh">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pranavagneeshm@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+Building Intelligent Software with AI, Machine Learning and Modern Engineering
+
+</h3>
