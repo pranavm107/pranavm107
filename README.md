@@ -1,15 +1,9 @@
-<div align="center">
 
-# Hi 👋, I'm <span style="color:#00C2FF;">Pranav Agneesh</span>
-
-<h2>
-AI Engineer • Machine Learning Engineer • Software Developer
-</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=1200&height=80&lines=AI+Engineer;Software+Engineer;Building+Modern+Applications;Open+Source+Enthusiast"
-    alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2FF,100:7F5AF0&section=header&text=Pranav%20Agneesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Machine%20Learning%20Engineer%20•%20Software%20Developer&descAlignY=58"/>
+
 </p>
 <br><br>
 
