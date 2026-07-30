@@ -89,9 +89,7 @@ Deep Learning project using TensorFlow and Keras for multi-class image classific
 Modern responsive business website built using React, TypeScript, and Tailwind CSS.
 
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
+
 ## Current Focus
 
 - Generative AI
@@ -124,3 +122,7 @@ Modern responsive business website built using React, TypeScript, and Tailwind C
 ---
 
 > "Building intelligent software that solves real-world problems through AI and modern engineering."
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
