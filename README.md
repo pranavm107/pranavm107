@@ -10,7 +10,7 @@
 
 I build intelligent applications powered by Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development. My work focuses on designing scalable software, developing production-ready AI solutions, and transforming real-world problems into practical products through modern technologies.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284068-acc43fd9-4c39-4f66-a96b-3a834e4c98a2.gif">
 
 ## About Me
 
@@ -21,7 +21,7 @@ I build intelligent applications powered by Artificial Intelligence, Machine Lea
 - Interested in solving real-world business problems using AI and data
 - Open to AI Engineering, Machine Learning Engineering, Software Engineering, and Full-Stack Development opportunities
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284068-acc43fd9-4c39-4f66-a96b-3a834e4c98a2.gif">
 
 ## Tech Stack
 <p align="center">
