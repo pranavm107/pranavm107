@@ -8,6 +8,9 @@
 
 ## AI Engineer | Machine Learning Engineer | Software Developer
 
+<p align="center">
+<img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg4aTBjYm5vNGs4dXc1d2kwcDJudjV4cWJlZXM0bTRkM3l0N2J2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+</p>
 I build intelligent applications powered by Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development. My work focuses on designing scalable software, developing production-ready AI solutions, and transforming real-world problems into practical products through modern technologies.
 
 ---
