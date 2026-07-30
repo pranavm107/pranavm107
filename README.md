@@ -126,3 +126,11 @@ Modern responsive business website built using React, TypeScript, and Tailwind C
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranav107&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav107&theme=tokyonight&hide_border=true"/>
+
+</p>
